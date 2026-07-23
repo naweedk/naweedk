@@ -67,7 +67,7 @@ React • TypeScript • FastAPI • Python • OpenAI • Meta Graph API
 
 ### Enterprise Recruitment Management Platform
 
-🌐 https://demo.recruiter.jobsyfi.ai/login
+🌐 [https://demo.recruiter.jobsyfi.ai/login](https://demo.recruiter.jobsyfi.ai/)
 
 ### My Contributions
 
