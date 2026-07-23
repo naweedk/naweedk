@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Mohd Naweed Khan
+# 👋 Hi, I'm Mohd Naweed Khan.
 
 ### Software Developer | React • Next.js • TypeScript • JavaScript • MUI • FastAPI • Python
 
