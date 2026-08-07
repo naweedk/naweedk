@@ -69,20 +69,29 @@ React • TypeScript • FastAPI • Python • OpenAI • Meta Graph API
 
 🌐 https://demo.recruiter.jobsyfi.ai/
 
+A comprehensive recruitment platform designed to streamline the hiring process, enabling recruiters to manage candidates, job postings, interviews, approvals, and recruitment workflows efficiently.
+
 ### My Contributions
 
-- Implemented structured backend logging
-- Added Prometheus metrics
-- Recorded API operation metrics
-- Implemented duration & success/failure tracking
-- Assisted in RBAC testing and debugging
-- Fixed permission-related issues
-- Wrote and updated backend tests
-- Improved backend observability
+#### 💻 Frontend
+- Developed and enhanced recruiter dashboard features
+- Built reusable and responsive React components
+- Improved profile management, forms, and candidate workflows
+- Fixed UI issues and optimized application performance
+- Enhanced overall user experience and responsiveness
+
+#### ⚙️ Backend
+- Implemented structured application logging
+- Added Prometheus metrics for API monitoring
+- Implemented request duration and success/failure tracking
+- Improved backend observability and debugging
+- Assisted in RBAC implementation and permission debugging
+- Wrote and maintained backend unit tests
+- Fixed authorization and permission-related issues
 
 ### Tech Stack
 
-NestJS • TypeScript • Prisma • PostgreSQL • Docker • Redis • Jest
+**React • TypeScript • NestJS • Prisma • PostgreSQL • Docker • Redis • Prometheus • Jest**
 
 ---
 
