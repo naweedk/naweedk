@@ -16,7 +16,6 @@ I enjoy developing responsive user interfaces, building scalable backend APIs, a
 
 I've contributed to projects in **Recruitment, AI Automation, Healthcare, Hospitality, and Career Development**, collaborating with teams to deliver production-ready software and continuously improve user experience.
 
-I'm always learning new technologies and enjoy solving real-world problems through clean, maintainable code.
 ---
 
 # 🚀 Featured Projects
