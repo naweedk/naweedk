@@ -10,12 +10,13 @@
 
 # 💫 About Me
 
-I'm a **Software Developer** based in **Mumbai, India 🇮🇳** with experience building modern web applications using **React, Next.js, NestJS, TypeScript, and PostgreSQL**.
+I'm a **Software Developer** based in **Mumbai, India 🇮🇳** with experience building modern web applications using **React, Next.js, TypeScript, NestJS, Python, and PostgreSQL**.
 
-I enjoy creating responsive user interfaces, developing scalable backend APIs, and improving application reliability through **logging, monitoring, testing, and clean architecture**.
+I enjoy developing responsive user interfaces, building scalable backend APIs, and creating applications that are fast, reliable, and easy to maintain. My experience spans both frontend and backend development, including REST APIs, authentication, AI-powered features, database integration, testing, logging, and application monitoring.
 
-I'm passionate about building products that solve real-world problems—from AI-powered automation platforms to recruitment software and healthcare solutions.
+I've contributed to projects in **Recruitment, AI Automation, Healthcare, Hospitality, and Career Development**, collaborating with teams to deliver production-ready software and continuously improve user experience.
 
+I'm always learning new technologies and enjoy solving real-world problems through clean, maintainable code.
 ---
 
 # 🚀 Featured Projects
