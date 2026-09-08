@@ -137,6 +137,28 @@ Next.js • React • TypeScript
 
 ---
 
+## 🏦 Katalyst — Kotak Mahindra Bank
+
+### Training & Learning Management Platform
+
+A training platform developed for **Kotak Mahindra Bank** to support training management, programmes, reporting, and learning-related workflows.
+
+### My Contributions
+
+- Developed the **Report Management module**
+- Built report listing, creation, editing, and detail workflows
+- Implemented dynamic **Programme and Column Selection**
+- Integrated REST APIs using **Next.js Server Actions**
+- Built reusable and responsive UI components
+- Implemented form validation and state management
+- Improved tables, responsiveness, and overall UI/UX
+
+### Tech Stack
+
+Next.js • React • TypeScript • MUI • React Hook Form • TanStack Query 
+
+---
+
 # 🛠 Tech Stack
 
 ## Frontend
