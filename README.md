@@ -157,7 +157,7 @@ A training platform developed for **Kotak Mahindra Bank** to support training ma
 
 ### Tech Stack
 
-Next.js • React • TypeScript • MUI • React Hook Form • TanStack Query • NestJS
+Next.js • React • TypeScript • MUI • React Hook Form • TanStack Query • NodeJS
 
 ---
 
