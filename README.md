@@ -141,6 +141,8 @@ Next.js • React • TypeScript
 
 ### Training & Learning Management Platform
 
+🌐 https://www.bigkatalyst.com/
+
 A training platform developed for **Kotak Mahindra Bank** to support training management, programmes, reporting, and learning-related workflows.
 
 ### My Contributions
@@ -155,7 +157,7 @@ A training platform developed for **Kotak Mahindra Bank** to support training ma
 
 ### Tech Stack
 
-Next.js • React • TypeScript • MUI • React Hook Form • TanStack Query 
+Next.js • React • TypeScript • MUI • React Hook Form • TanStack Query • NestJS
 
 ---
 
